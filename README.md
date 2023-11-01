@@ -9,7 +9,8 @@ I develop stuff.
 I like to do hacking stuff. I know Linux.
 
 ## Flipper
-I am the creator of the [Mischief Firmware](https://flippermischief.github.io).
+### I am the creator of the [Mischief Firmware](https://flippermischief.github.io).
+
 I do [Flipper Zero](https://flipperzero.one) hacking (go check it out if you don't know what that is). I have a few resouces somewhere in my repositories.
 
 ## The web
