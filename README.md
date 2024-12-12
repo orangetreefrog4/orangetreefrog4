@@ -4,13 +4,14 @@
 ## Me
 I'm **orangetreefrog4**.
 I develop stuff.
+Self-taught powershell.
+Can do Python.
+CS and music GCSE student.
 
 ## What I do
 I like to do hacking stuff. I know Linux.
 
 ## Flipper Zero
-### I am the creator of the [Mischief Firmware](https://flippermischief.github.io).
-
 I do [Flipper Zero](https://flipperzero.one) hacking (go check it out if you don't know what that is). I have a few resouces somewhere in my repositories.
 
 ## The web
