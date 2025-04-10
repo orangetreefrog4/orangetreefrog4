@@ -7,6 +7,7 @@ I develop stuff.
 Self-taught powershell.
 Can do Python.
 CS and music GCSE student.
+A lot of the stuff here was me messing around with powershell on school computers, so don't take it too seriously. I can do more than that.
 
 ## What I do
 I like to do hacking stuff. I know Linux.
